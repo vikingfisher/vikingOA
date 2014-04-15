@@ -152,6 +152,7 @@
 				<groupId>org.mortbay.jetty</groupId>
 				<artifactId>maven-jetty-plugin</artifactId>
 			</plugin>
+			
 			<!-- tomcat plugin -->
 			<plugin>
 				<groupId>org.apache.tomcat.maven</groupId>
